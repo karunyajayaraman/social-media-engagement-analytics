@@ -1,1 +1,8 @@
-
+daily_engagement_trend.png
+posts_by_category.png
+gender_distribution.png
+engagement_rate_boxplot.png
+count_plot.png
+avg_likes_category.png
+pair_plot.png
+interactive_scatter.png
