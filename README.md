@@ -134,7 +134,7 @@ This project includes data visualizations created using **Matplotlib**, **Seabor
 
 - 🔵 Interactive Scatter Plot
 
-#🔍 Key Insights
+# 🔍 Key Insights
 
 - Identified engagement trends across different post categories.
 - Compared user engagement across post types.
